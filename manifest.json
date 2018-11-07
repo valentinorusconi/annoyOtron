@@ -1,0 +1,12 @@
+{
+    "manifest_version": 2,
+    "name": "annoyOtron",
+    "description": "Let 's you know if you lost your internet connection",
+    "version": "1.0",
+    "author": "Valentino Rusconi",
+    "background": {
+        "scripts": ["check.js"],
+        "persistent": false
+    },
+    "page_action": {}
+}
